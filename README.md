@@ -9,17 +9,12 @@ Base on GL552VW
 - Wifi, Bluetooth (AC8260 using https://openintelwireless.github.io/)
 
 
-- Card Reader
-- sleep (Fn+F1 icon)
-- Airplane mode (Fn+F2 icon)
 - shutdown
 - Intel HD 530
 - HDMI
 - All USB ports
 - Keyboard 16 (Support Automatically turn off lights)
 - TouchPad with VoodooI2C (Turn off fn+f9 and ignore built-in trackpad when mouse or wireless trackpad is present )
-- Fn Keys
-- Keyboard Backlighting
 - Ethernet (LAN)
 - Battery Status
 - UVC HD Webcam
